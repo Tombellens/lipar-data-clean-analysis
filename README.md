@@ -42,16 +42,9 @@ A **temporary draft** of the research note detailing the dataset is also include
 - **Post-Cabinet Career Paths**:  
    After serving in ministerial offices, many MAs transitioned to roles in the civil service (24.91%) or the private sector (12.29%), indicating the stepping-stone nature of these positions.
 
-## Repository Structure
-- `src/`: Source code for data processing and cleaning, including tools for scraping LinkedIn profiles and coding career positions.
-- `data/`: Includes the compiled dataset of 754 Flemish ministerial advisors and their career paths (not publicly available in this repository).
-- `results/`: Descriptive statistics and initial exploratory analysis of the dataset.
-- `models/`: Machine learning models used for parsing and coding LinkedIn profiles.
-- `paper/`: A **temporary draft** of the research note on the dataset is available here.
-
 ## Citation
 If you use this work, please cite:
-- **Bellens, T., & Brans, M.** (2024). *A Career Dataset of Flemish Ministerial Advisors (1999-2020): Leveraging Online Data Sources*. Research Note, KU Leuven.
+- **Bellens, T. & Bellens, J. & Brans, M.** (2024). *A Career Dataset of Flemish Ministerial Advisors (1999-2020): Leveraging Online Data Sources*. Research Note, KU Leuven.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
